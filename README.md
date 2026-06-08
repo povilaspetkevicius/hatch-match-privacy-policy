@@ -13,4 +13,4 @@
   
   This app has no internet connection and cannot access your data.                                                                                            
                   
-  Contact for questions: povilas.petkevicius@vinted.com
+  Contact for questions: povilas.petkevicius@outlook.com
